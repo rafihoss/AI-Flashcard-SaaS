@@ -89,7 +89,7 @@ export default function Home() {
             <Typography variant='h6' gutterBottom>Smart Flashcards</Typography>
             <Typography>
               {''}
-              Out AI intelligently breaks down your text into concise flashcards, perfect for studying
+              Our AI intelligently breaks down your text into concise flashcards, perfect for studying
             </Typography>
           </Grid>
           <Grid item xs={12} md={4}>
